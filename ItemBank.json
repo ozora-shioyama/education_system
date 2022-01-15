@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "question" : "Let's go ahead and do it. Nothing __ by just waiting.",
+        "choices": [
+            "will be gained","will gain","has gained","gains","わからない"
+        ],
+        "correct": 1, "a": 0.275, "b": -0.507
+    },
+    {
+        "id": 1,
+        "question" : "This work calls for great __ . Do you think will be fit for it?",
+        "choices": [
+            "patience","skill","advice","knowledge","わからない"
+        ],
+        "correct": 1, "a": 0.364, "b": 1.269
+    },
+    {
+        "id": 2,
+        "question" : "Allice trusts you; only you can __ her to give up the foolish idea.",
+        "choices": [
+            "suggest","attract","tempt","persuade","わからない"
+        ],
+        "correct": 4, "a": 0.761, "b": 0.361
+    },
+    {
+        "id": 3,
+        "question" : "We __ playing baseball for about half an hour when it started to rain very heavily",
+        "choices": [
+            "had been","have been","might be","would be","わからない"
+        ],
+        "correct": 1, "a": 0.524, "b": 0.086
+    },
+    {
+        "id": 4,
+        "question" : "A: We're having a party on Satuday night Can you come?<br>B: ___<br> A:Oh Well. maybe next time!",
+        "choices": [
+            "I think it's a very good idea.","I'm sorry. I'm busy this weekend.","No.I can't. I never go to parties.","Yes,of course I can come.","わからない"
+        ],
+        "correct": 2, "a": 1.466, "b": -0.622
+    },
+    {
+        "id": 5,
+        "question": "テスト全体の自信度を選択してください.",
+        "choices": [
+            "全くない","あまり無い","普通","ややある","非常にある"
+           ] 
+    }
+
+]
